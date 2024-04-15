@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophos on Madhusudan</title>
+    <link>http://localhost:1313/series/sophos/</link>
+    <description>Recent content in Sophos on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/sophos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOPHOS XG Firewall SSLVPN Configuration</title>
+      <link>http://localhost:1313/docs/sophos-sslvpn/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/sophos-sslvpn/</guid>
+      <description>What Is SSL VPN?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/sophos-sslvpn/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

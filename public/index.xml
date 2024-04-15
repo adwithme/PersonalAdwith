@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madhusudan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About </title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>An innovative and passionate IT specialist and system administrator with a wide range of expertise in selecting and setting up diverse technical equipment, windows system, and server administration.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Date Convertor </title>
+      <link>http://localhost:1313/dateconvertor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/dateconvertor/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dateconvertor/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Nepali Calendar</title>
+      <link>http://localhost:1313/calendar/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/calendar/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/calendar/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Preeti to Unicode Convertor </title>
+      <link>http://localhost:1313/preetitounicode/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/preetitounicode/</guid>
+      <description> © Preeti to Unicode </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/preetitounicode/featured.png" />
+    </item>
+    
+    <item>
+      <title>Everyone Wants Your Email Address.</title>
+      <link>http://localhost:1313/posts/tracking-through-email/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tracking-through-email/</guid>
+      <description>Introduction # Your email address has become a digital bread crumb for companies to link your activity across sites.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tracking-through-email/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Social media and its impact on our life. | Positive and Negative aspects. </title>
+      <link>http://localhost:1313/posts/social-media/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/social-media/</guid>
+      <description>Introduction # The roots of social media stretch far deeper than you might imagine.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/social-media/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The App Management on Windows 11</title>
+      <link>http://localhost:1313/docs/win11-app-management/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/win11-app-management/</guid>
+      <description>After downloading any app in Windows 11, there are various reasons to uninstall it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/win11-app-management/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Do You Sleep At Night With Wi-Fi On? Is good for health?</title>
+      <link>http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/</guid>
+      <description>Internet usage has become commonplace these days.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/featured.png" />
+    </item>
+    
+    <item>
+      <title>SOPHOS XG Firewall SSLVPN Configuration</title>
+      <link>http://localhost:1313/docs/sophos-sslvpn/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/sophos-sslvpn/</guid>
+      <description>What Is SSL VPN?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/sophos-sslvpn/featured.png" />
+    </item>
+    
+    <item>
+      <title>Creating Bootable USB Drive Of Windows 11 Any PC</title>
+      <link>http://localhost:1313/docs/win11-no-tpm-required/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/win11-no-tpm-required/</guid>
+      <description>Your device must be running Windows 10, version 2004 or later, to upgrade.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/win11-no-tpm-required/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Calculate The Number of Days in Excel</title>
+      <link>http://localhost:1313/docs/excel/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/excel/</guid>
+      <description>Have you ever needed to determine the number of days, months or years between two dates?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/excel/featured.png" />
+    </item>
+    
+    <item>
+      <title>OneDrive or OneDrive for Business on web -IV</title>
+      <link>http://localhost:1313/docs/onedrive-iv/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/onedrive-iv/</guid>
+      <description>Hope you read our first part of Getting Started with OneDrive or OneDrive for Business.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/onedrive-iv/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>OneDrive or OneDrive for Business on web -III</title>
+      <link>http://localhost:1313/docs/onedrive-iii/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/onedrive-iii/</guid>
+      <description>Hope you read our first part of Getting Started with OneDrive or OneDrive for Business.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/onedrive-iii/featured.png" />
+    </item>
+    
+    <item>
+      <title>OneDrive or OneDrive for Business on web -II</title>
+      <link>http://localhost:1313/docs/onedrive-ii/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/onedrive-ii/</guid>
+      <description>Hope you read our first part of Getting Started with OneDrive or OneDrive for Business.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/onedrive-ii/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>OneDrive or OneDrive for Business on web -I</title>
+      <link>http://localhost:1313/docs/onedrive-i/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/onedrive-i/</guid>
+      <description>OneDrive is a product of Microsoft which is cloud storage system just like Google Drive, DropBox, etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/onedrive-i/featured.png" />
+    </item>
+    
+    <item>
+      <title>Motherboard Beep Code</title>
+      <link>http://localhost:1313/docs/motherboard-beep-code/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/motherboard-beep-code/</guid>
+      <description>Motherboard Beep Code Is Very Important While You Are Troubleshooting PC Or Laptop, Here Are The List Of Beep Code From Different Manufactures.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/motherboard-beep-code/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Linux System Configuration and Log Files.</title>
+      <link>http://localhost:1313/docs/linux-file-system/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/linux-file-system/</guid>
+      <description>In previous article we learn what is Linux and its File system, New we are going to know about System Configuration and Log files.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/linux-file-system/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Introduction to Linux file systems.</title>
+      <link>http://localhost:1313/docs/linux/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/linux/</guid>
+      <description>What Is Linux?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/linux/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Online mobile registration in Nepal Step-by-step.</title>
+      <link>http://localhost:1313/posts/imei-registration-in-nepal/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/imei-registration-in-nepal/</guid>
+      <description>Introduction # Nepal Telecommunications Authority changes their policy regarding mobile devices.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imei-registration-in-nepal/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to Connect .com.np domain to blogger</title>
+      <link>http://localhost:1313/docs/np-domain/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/np-domain/</guid>
+      <description>Easy Steps to get your Blog to your personal domain # 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/np-domain/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to install Windows 10 ? </title>
+      <link>http://localhost:1313/docs/windows/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/windows/</guid>
+      <description>How To Install Windows 10 Operating System Using Pendrive # If you don&amp;rsquo;t know how to make Bootable usb pendrive you can check our previous Post.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/windows/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to create bootable usb? Windows and Linux.</title>
+      <link>http://localhost:1313/docs/bootable-usb/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/bootable-usb/</guid>
+      <description>The Method Of Creating Of Bootable USB Flash Drive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/bootable-usb/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Disclamier </title>
+      <link>http://localhost:1313/disclamier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/disclamier/</guid>
+      <description>If you require any more information or have any questions about our site’s disclaimer, please feel free to contact us by email at info@madhusudanupadhyay.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/disclamier/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Privacy Policy </title>
+      <link>http://localhost:1313/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/policy/</guid>
+      <description>At madhusudanupadhyay.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/policy/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Terms &amp; Condition </title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/terms/</guid>
+      <description>Welcome to madhusudanupadhyay.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/terms/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

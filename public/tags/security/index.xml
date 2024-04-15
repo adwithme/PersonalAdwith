@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Madhusudan</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do You Sleep At Night With Wi-Fi On? Is good for health?</title>
+      <link>http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/</guid>
+      <description>Internet usage has become commonplace these days.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/turn-off-your-wifi-while-sleeping/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

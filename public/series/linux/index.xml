@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Madhusudan</title>
+    <link>http://localhost:1313/series/linux/</link>
+    <description>Recent content in Linux on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux System Configuration and Log Files.</title>
+      <link>http://localhost:1313/docs/linux-file-system/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/linux-file-system/</guid>
+      <description>In previous article we learn what is Linux and its File system, New we are going to know about System Configuration and Log files.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/linux-file-system/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Introduction to Linux file systems.</title>
+      <link>http://localhost:1313/docs/linux/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/linux/</guid>
+      <description>What Is Linux?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/linux/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to create bootable usb? Windows and Linux.</title>
+      <link>http://localhost:1313/docs/bootable-usb/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/bootable-usb/</guid>
+      <description>The Method Of Creating Of Bootable USB Flash Drive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/bootable-usb/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

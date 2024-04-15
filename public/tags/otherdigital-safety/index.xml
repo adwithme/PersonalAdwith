@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OtherDigital Safety on Madhusudan</title>
+    <link>http://localhost:1313/tags/otherdigital-safety/</link>
+    <description>Recent content in OtherDigital Safety on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/otherdigital-safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everyone Wants Your Email Address.</title>
+      <link>http://localhost:1313/posts/tracking-through-email/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tracking-through-email/</guid>
+      <description>Introduction # Your email address has become a digital bread crumb for companies to link your activity across sites.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tracking-through-email/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Madhusudan</title>
+    <link>http://localhost:1313/tags/windows/</link>
+    <description>Recent content in Windows on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The App Management on Windows 11</title>
+      <link>http://localhost:1313/docs/win11-app-management/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/win11-app-management/</guid>
+      <description>After downloading any app in Windows 11, there are various reasons to uninstall it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/win11-app-management/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Creating Bootable USB Drive Of Windows 11 Any PC</title>
+      <link>http://localhost:1313/docs/win11-no-tpm-required/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/win11-no-tpm-required/</guid>
+      <description>Your device must be running Windows 10, version 2004 or later, to upgrade.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/win11-no-tpm-required/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to install Windows 10 ? </title>
+      <link>http://localhost:1313/docs/windows/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/windows/</guid>
+      <description>How To Install Windows 10 Operating System Using Pendrive # If you don&amp;rsquo;t know how to make Bootable usb pendrive you can check our previous Post.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/windows/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to create bootable usb? Windows and Linux.</title>
+      <link>http://localhost:1313/docs/bootable-usb/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/bootable-usb/</guid>
+      <description>The Method Of Creating Of Bootable USB Flash Drive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/bootable-usb/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Madhusudan</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on Madhusudan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 MADHUSUDAN UPADHYAY</copyright>
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/series/windows/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sophos</title>
+      <link>http://localhost:1313/series/sophos/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/sophos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>http://localhost:1313/series/excel/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/excel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Onedrive</title>
+      <link>http://localhost:1313/series/onedrive/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/onedrive/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Motherboard</title>
+      <link>http://localhost:1313/series/motherboard/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/motherboard/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/series/linux/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bootable</title>
+      <link>http://localhost:1313/series/bootable/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/bootable/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

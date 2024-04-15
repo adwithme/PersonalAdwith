@@ -56,12 +56,7 @@
   parent = "Toolbox"
   pageRef = "PreetitoUnicode"
   weight = 43
-
- [[main]]
-   name = "Ticket"
-   pageRef = "https://madhusudan.tawk.help/"
-   weight = 41
-
+ 
 [[main]]
   identifier = "twitter"
   pre = "x-twitter"

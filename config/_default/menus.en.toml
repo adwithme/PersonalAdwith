@@ -52,18 +52,6 @@
   weight = 40
 
 [[main]]
-  name = "Date Convertor"
-  parent = "Toolbox"
-  pageRef = "DateConvertor"
-  weight = 41
-
-[[main]]
-  name = "Calendar"
-  parent = "Toolbox"
-  pageRef = "calendar"
-  weight = 42
-
-[[main]]
   name = "Preeti to Unicode"
   parent = "Toolbox"
   pageRef = "PreetitoUnicode"

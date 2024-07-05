@@ -39,29 +39,32 @@ Robocopy is a command-line utility designed for fast and robust file replication
 
 ## Common Options
 
-| /S | Copy subdirectories, but not empty ones. |
-| /E | Copy all subdirectories, including empty ones. |
-| /COPY:copyflags | Specify the file properties to copy (D=Data, A=Attributes, T=Timestamps, S=Security=NTFS ACLs, O=Owner info, U=Auditing info). |
-| /DCOPY:T | Copy directory timestamps. |
-| /PURGE | Delete destination files/directories that no longer exist in the source. |
-| /MIR | Mirror a directory tree (equivalent to /E plus /PURGE). |
-| /MOV | Move files (delete from source after copying). |
-| /MOVE | Move files and directories (delete from source after copying). |
-| /ETA | Show estimated time of arrival (ETA) for copied files. |
-| /R:n | Number of retries on failed copies (default is 1 million). |
-| /W:n | Wait time between retries in seconds (default is 30). |
-| /LOG:file | Output log file. |
-| /LOG+:file | Append to log file. |
-| /MT[:n] | Multithreaded copying, n specifies the number of threads (default is 8, maximum is 128). |
-| /XD dirs [dirs] | Exclude directories matching the specified names/paths. |
-| /XF files [files] | Exclude files matching the specified names/paths. |
+|Option|Description|
+|:----|:----|
+|/S|Copy subdirectories, but not empty ones.|
+|/E|Copy all subdirectories, including empty ones.|
+|/COPY:copyflags|Specify the file properties to copy (D=Data, A=Attributes, T=Timestamps, S=Security=NTFS ACLs, O=Owner info, U=Auditing info).|
+|/DCOPY:T|Copy directory timestamps.|
+|/PURGE|Delete destination files/directories that no longer exist in the source.|
+|/MIR|Mirror a directory tree (equivalent to /E plus /PURGE).|
+|/MOV|Move files (delete from source after copying).|
+|/MOVE|Move files and directories (delete from source after copying).|
+|/ETA|Show estimated time of arrival (ETA) for copied files.|
+|/R:n|Number of retries on failed copies (default is 1 million).|
+|/W:n|Wait time between retries in seconds (default is 30).|
+|/LOG:file|Output log file.|
+|/LOG+:file|Append to log file.|
+|/MT[:n]|Multithreaded copying, n specifies the number of threads (default is 8, maximum is 128).|
+|/XD dirs [dirs]|Exclude directories matching the specified names/paths.|
+|/XF files [files]|Exclude files matching the specified names/paths.|
+
 
 ## Example Usage
 
 ### A. Basic Copy
 > ROBOCOPY C:\Source C:\Destination
 
-## B. Copy Subdirectories Including Empty Ones
+### B. Copy Subdirectories Including Empty Ones
 > ROBOCOPY C:\Source C:\Destination /E
 
 ### C. Mirror Source to Destination
@@ -79,7 +82,7 @@ Robocopy is a command-line utility designed for fast and robust file replication
 - **Scheduled Tasks**: Robocopy can be scheduled to run at specific times using the Windows Task Scheduler, making it useful for automated backup tasks.
 - **Data Migration**: When moving data between servers or migrating to new hardware, Robocopy ensures that all file properties and permissions are retained.
 
-> robocopy "Source" "Destination" /E /R:5 /W:10 /log:c:\robocopy\log.txt
+>``` robocopy "Source" "Destination" /E /R:5 /W:10 /log:c:\robocopy\log.txt```
 
 ## Conclusion
 

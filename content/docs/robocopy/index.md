@@ -61,20 +61,20 @@ Robocopy is a command-line utility designed for fast and robust file replication
 
 ## Example Usage
 
-### A. Basic Copy
+#### A. Basic Copy
 > ROBOCOPY C:\Source C:\Destination
 
-### B. Copy Subdirectories Including Empty Ones
-> ROBOCOPY C:\Source C:\Destination /E
+#### B. Copy Subdirectories Including Empty Ones
+> `ROBOCOPY C:\Source C:\Destination /E`
 
-### C. Mirror Source to Destination
-> ROBOCOPY C:\Source C:\Destination /MIR
+#### C. Mirror Source to Destination
+> `ROBOCOPY C:\Source C:\Destination /MIR`
 
-### D. Move Files and Directories
-> ROBOCOPY C:\Source C:\Destination /MOVE
+#### D. Move Files and Directories
+> `ROBOCOPY C:\Source C:\Destination /MOVE`
 
-### E. Multithreaded Copy with Logging
-> ROBOCOPY C:\Source C:\Destination /MT:16 /LOG:C:\LogFile.txt
+#### E. Multithreaded Copy with Logging
+> `ROBOCOPY C:\Source C:\Destination /MT:16 /LOG:C:\LogFile.txt`
 
 ## Advanced Usage Scenarios
 
@@ -82,7 +82,7 @@ Robocopy is a command-line utility designed for fast and robust file replication
 - **Scheduled Tasks**: Robocopy can be scheduled to run at specific times using the Windows Task Scheduler, making it useful for automated backup tasks.
 - **Data Migration**: When moving data between servers or migrating to new hardware, Robocopy ensures that all file properties and permissions are retained.
 
->``` robocopy "Source" "Destination" /E /R:5 /W:10 /log:c:\robocopy\log.txt```
+>` robocopy "Source" "Destination" /E /R:5 /W:10 /log:c:\robocopy\log.txt`
 
 ## Conclusion
 

@@ -28,7 +28,7 @@ Robocopy is a command-line utility designed for fast and robust file replication
 
 ## Basic Syntax
 
-> ROBOCOPY [source] [destination] [file(s)_to_copy] [options]
+> `ROBOCOPY [source] [destination] [file(s)_to_copy] [options]`
 
 - source: Specifies the path to the source directory.
 - destination: Specifies the path to the destination directory.
@@ -62,7 +62,7 @@ Robocopy is a command-line utility designed for fast and robust file replication
 ## Example Usage
 
 #### A. Basic Copy
-> ROBOCOPY C:\Source C:\Destination
+> `ROBOCOPY C:\Source C:\Destination`
 
 #### B. Copy Subdirectories Including Empty Ones
 > `ROBOCOPY C:\Source C:\Destination /E`
